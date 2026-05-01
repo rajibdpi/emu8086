@@ -1,1 +1,0 @@
-EMU8086 is a popular 16-bit microprocessor emulator and integrated assembler designed for the Intel 8086 CPU. It is widely used for educational purposes to help students learn Assembly language and understand the internal workings of a microprocessor.
